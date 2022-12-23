@@ -6,7 +6,6 @@ CS student, working as a full stack engineer at Synamedia! Ask me about any of m
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=rahav-ayalon&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rahav-ayalon&theme=dark&hide_border=false)
 
 # 👩‍💻 Socials

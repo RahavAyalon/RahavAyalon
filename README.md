@@ -1,10 +1,6 @@
 # 💫 About Me
 CS student, working as a full stack engineer at Synamedia! Ask me about any of my repos!<br>
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=rahav-ayalon&theme=dark&hide_border=false)
-
 # 👩‍💻 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahav-ayalon-96799b1b6) 
 

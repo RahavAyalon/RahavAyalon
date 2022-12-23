@@ -6,12 +6,6 @@ CS student, working as a full stack engineer at Synamedia! Ask me about any of m
 
 # 📊 GitHub Stats:
 
-<div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=rahav-ayalon&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-&nbsp;
-&nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=rahav-ayalon&theme=dark&hide_border=false" /></div>
-</div>
 
 ![](https://github-readme-stats.vercel.app/api?username=rahav-ayalon&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rahav-ayalon&theme=dark&hide_border=false)<br/>

@@ -3,7 +3,7 @@
 - Bachelor of Computer Science and Middle Eastern Studies (graduate)<br>
 - Master of Cyber and Politics (candidate)<br>
 - Looking for my next challenge!
-- Feel free to ask me any question on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RahavAyalon) 
+- Feel free to contact me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RahavAyalon) 
 
 
 # 💻 Tech Stack:

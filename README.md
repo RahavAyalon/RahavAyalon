@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Full Stack Engineer at Dofinity with 1.5 years experience with Node.js (Express), Python, AWS, MongoDB)<br>
+- Full Stack Engineer at Dofinity with 1.5 years experience with Node.js (Express), Python, AWS, MongoDB<br>
 - Bachelor of Computer Science and Middle Eastern Studies (graduate)<br>
 - Master of Cyber and Politics (candidate)<br>
 - Looking for my next challenge!
